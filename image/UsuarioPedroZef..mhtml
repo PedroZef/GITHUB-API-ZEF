@@ -1,0 +1,2161 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:3000/
+Subject: Github Interface
+Date: Mon, 14 Feb 2022 18:56:19 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----"
+
+
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----
+Content-Type: text/html
+Content-ID: <frame-ABA6ADFCBDCB088E3C20676FC52C40EE@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-31093da1-2a1c-4ddc-83ad-cec9297ee152@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-527cb3aa-8c6e-4d91=
+-ac39-b23b429034c0@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-57a09472-8200-4807-b3dd-12bc37c1ed05@mhtml.blink" />
+   =20
+    <link rel=3D"icon" href=3D"http://localhost:3000/favicon.ico">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <meta name=3D"theme-color" content=3D"#000000">
+    <meta name=3D"description" content=3D"Web site created using create-rea=
+ct-app">
+    <link rel=3D"apple-touch-icon" href=3D"http://localhost:3000/logo192.pn=
+g">
+    <!--
+      manifest.json provides metadata used when your web app is installed o=
+n a
+      user's mobile device or desktop. See https://developers.google.com/we=
+b/fundamentals/web-app-manifest/
+    -->
+    <link rel=3D"manifest" href=3D"http://localhost:3000/manifest.json">
+    <!--
+      Notice the use of  in the tags above.
+      It will be replaced with the URL of the `public` folder during the bu=
+ild.
+      Only files inside the `public` folder can be referenced from the HTML=
+.
+
+      Unlike "/favicon.ico" or "favicon.ico", "/favicon.ico" will
+      work correctly both with client-side routing and a non-root public UR=
+L.
+      Learn how to configure a non-root public URL by running `npm run buil=
+d`.
+    -->
+    <title>Github Interface</title>
+    <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/">
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DRoboto:ital,wg=
+ht@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&=
+amp;display=3Dswap" rel=3D"stylesheet">
+  </head>
+  <body>
+   =20
+    <div id=3D"root"><main><section class=3D"sc-gsDKAQ fpsWM"><header><div =
+class=3D"sc-bdvvtL eRqfMG"><input type=3D"text" placeholder=3D"Digite o use=
+rname para pesquisa..." spellcheck=3D"false" data-ms-editor=3D"true"><butto=
+n type=3D"submit"><span>Buscar</span></button><editor-squiggler><div class=
+=3D"ms-editor-squiggles-container"><template shadowmode=3D"open"><div style=
+=3D"top: 0px; left: -1289px; position: relative; height: 0px;"><div id=3D"7=
+1e0a547-c50b-4d3f-beb3-4283feeb9304-overlay" class=3D"hc-noadjust" style=3D=
+"display: block; white-space: pre; overflow-wrap: break-word; position: abs=
+olute; direction: ltr; box-sizing: border-box; writing-mode: horizontal-tb;=
+ width: 1174.84px; height: 47px; border-width: 1px; border-style: solid; pa=
+dding: 8px; font: 500 16px / 26px roboto, sans-serif; text-align: start; te=
+xt-transform: none; text-indent: 0px; text-decoration: none solid rgb(0, 0,=
+ 0); letter-spacing: normal; word-spacing: 0px; tab-size: 8; visibility: vi=
+sible; overflow: hidden; left: 0px; top: 0px; pointer-events: none; resize:=
+ unset; background-color: transparent; border-color: transparent; color: tr=
+ansparent; will-change: contents; outline: none; z-index: auto;"><div style=
+=3D"width: 100%; overflow: hidden; height: calc(100% + 8px);"><span id=3D"3=
+6a2e7ae-695f-46d0-a76a-271048bb026a-0" role=3D"none presentation" class=3D"=
+ms-squiggle ms-squiggle-0 " aria-live=3D"off" aria-label=3D"" aria-describe=
+dby=3D"ms-squiggle-tooltip"><span aria-hidden=3D"true">PedroZef</span></spa=
+n><span aria-hidden=3D"true">=E2=80=8B</span></div></div></div></template><=
+/div></editor-squiggler></div></header><div class=3D"sc-hKwDye dysGPw"><img=
+ src=3D"https://avatars.githubusercontent.com/u/87716478?v=3D4" alt=3D"Avat=
+ar of user" class=3D"sc-iCfMLu cMsbFZ"><div class=3D"sc-eCImPb jGPjRs"><div=
+><h1>Pedro Zeferino da Silva.</h1><div class=3D"sc-gKclnd csKhxk"><h3>Usern=
+ame:</h3><a href=3D"https://github.com/PedroZef" target=3D"_blank" rel=3D"n=
+oreferrer">PedroZef</a></div><div class=3D"sc-gKclnd csKhxk"><h3>Company:</=
+h3><span>Maria de F=C3=A1tima P. da Silva</span></div><div class=3D"sc-gKcl=
+nd csKhxk"><h3>Location:</h3><span>S=C3=A3o Jos=C3=A9 dos Campos - S=C3=A3o=
+ Paulo</span></div><div class=3D"sc-gKclnd csKhxk"><h3>Blog:</h3><a href=3D=
+"http://localhost:3000/" target=3D"_blank" rel=3D"noreferrer"></a></div></d=
+iv><div class=3D"sc-jRQBWg dDpbjf"><div><h4>Followers</h4><span> 0</span></=
+div><div><h4>Followings</h4><span> 0</span></div><div><h4>Gists</h4><span> =
+0</span></div><div><h4>Repos</h4><span> 17</span></div></div></div></div><d=
+iv class=3D"sc-iqseJM degwzq" data-rttabs=3D"true"><ul class=3D"sc-crHmcD b=
+VjpUf" role=3D"tablist"><li class=3D"sc-egiyK hSVaCP is-selected" role=3D"t=
+ab" id=3D"react-tabs-0" aria-selected=3D"true" aria-disabled=3D"false" aria=
+-controls=3D"react-tabs-1" tabindex=3D"0" data-rttab=3D"true">Repositories<=
+/li><li class=3D"sc-egiyK hSVaCP" role=3D"tab" id=3D"react-tabs-2" aria-sel=
+ected=3D"false" aria-disabled=3D"false" aria-controls=3D"react-tabs-3" data=
+-rttab=3D"true">Starred</li></ul><div class=3D"sc-bqiRlB enkNUv is-selected=
+" role=3D"tabpanel" id=3D"react-tabs-1" aria-labelledby=3D"react-tabs-0"><d=
+iv class=3D"sc-ksdxgE gtKECT"><div class=3D"sc-furwcr bkqqri"><h2 class=3D"=
+sc-pVTFL ORNId">beerstock</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:</h2>=
+<a href=3D"http://localhost:3000/PedroZef/beerstock" target=3D"_blank" rel=
+=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/beerstock</a></div><div=
+ class=3D"sc-furwcr bkqqri"><h2 class=3D"sc-pVTFL ORNId">Criando-seu-jogo-d=
+e-memoria-estilo-Genius</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:</h2><a=
+ href=3D"http://localhost:3000/PedroZef/Criando-seu-jogo-de-memoria-estilo-=
+Genius" target=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">Ped=
+roZef/Criando-seu-jogo-de-memoria-estilo-Genius</a></div><div class=3D"sc-f=
+urwcr bkqqri"><h2 class=3D"sc-pVTFL ORNId">Cronstuindo-seu-primeiro-jogo-de=
+naves</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:</h2><a href=3D"http://lo=
+calhost:3000/PedroZef/Cronstuindo-seu-primeiro-jogo-denaves" target=3D"_bla=
+nk" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/Cronstuindo-seu-=
+primeiro-jogo-denaves</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=3D=
+"sc-pVTFL ORNId">desafio-java-oo-dio_banco</h2><h2 class=3D"sc-jrQzAO uKbfh=
+">full name:</h2><a href=3D"http://localhost:3000/PedroZef/desafio-java-oo-=
+dio_banco" target=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">=
+PedroZef/desafio-java-oo-dio_banco</a></div><div class=3D"sc-furwcr bkqqri"=
+><h2 class=3D"sc-pVTFL ORNId">desafio-poo-dio</h2><h2 class=3D"sc-jrQzAO uK=
+bfh">full name:</h2><a href=3D"http://localhost:3000/PedroZef/desafio-poo-d=
+io" target=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZe=
+f/desafio-poo-dio</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=3D"sc-=
+pVTFL ORNId">desafios-DIO</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:</h2>=
+<a href=3D"http://localhost:3000/PedroZef/desafios-DIO" target=3D"_blank" r=
+el=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/desafios-DIO</a></div=
+><div class=3D"sc-furwcr bkqqri"><h2 class=3D"sc-pVTFL ORNId">dio-dino-game=
+-PZS</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:</h2><a href=3D"http://loc=
+alhost:3000/PedroZef/dio-dino-game-PZS" target=3D"_blank" rel=3D"noreferrer=
+" class=3D"sc-kDTinF iMbLvy">PedroZef/dio-dino-game-PZS</a></div><div class=
+=3D"sc-furwcr bkqqri"><h2 class=3D"sc-pVTFL ORNId">DIO.Series</h2><h2 class=
+=3D"sc-jrQzAO uKbfh">full name:</h2><a href=3D"http://localhost:3000/PedroZ=
+ef/DIO.Series" target=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbL=
+vy">PedroZef/DIO.Series</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=
+=3D"sc-pVTFL ORNId">lab-padrao-java</h2><h2 class=3D"sc-jrQzAO uKbfh">full =
+name:</h2><a href=3D"http://localhost:3000/PedroZef/lab-padrao-java" target=
+=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/lab-padr=
+ao-java</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=3D"sc-pVTFL ORNI=
+d">lab_padroes-projetos_spring</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:=
+</h2><a href=3D"http://localhost:3000/PedroZef/lab_padroes-projetos_spring"=
+ target=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/l=
+ab_padroes-projetos_spring</a></div><div class=3D"sc-furwcr bkqqri"><h2 cla=
+ss=3D"sc-pVTFL ORNId">livro-receitas</h2><h2 class=3D"sc-jrQzAO uKbfh">full=
+ name:</h2><a href=3D"http://localhost:3000/PedroZef/livro-receitas" target=
+=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/livro-re=
+ceitas</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=3D"sc-pVTFL ORNId=
+">matches-simulator-appzef</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:</h2=
+><a href=3D"http://localhost:3000/PedroZef/matches-simulator-appzef" target=
+=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/matches-=
+simulator-appzef</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=3D"sc-p=
+VTFL ORNId">nodeJs-liveCoding-DIO</h2><h2 class=3D"sc-jrQzAO uKbfh">full na=
+me:</h2><a href=3D"http://localhost:3000/PedroZef/nodeJs-liveCoding-DIO" ta=
+rget=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/node=
+Js-liveCoding-DIO</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=3D"sc-=
+pVTFL ORNId">PedroZef</h2><h2 class=3D"sc-jrQzAO uKbfh">full name:</h2><a h=
+ref=3D"http://localhost:3000/PedroZef/PedroZef" target=3D"_blank" rel=3D"no=
+referrer" class=3D"sc-kDTinF iMbLvy">PedroZef/PedroZef</a></div><div class=
+=3D"sc-furwcr bkqqri"><h2 class=3D"sc-pVTFL ORNId">personapi-zef</h2><h2 cl=
+ass=3D"sc-jrQzAO uKbfh">full name:</h2><a href=3D"http://localhost:3000/Ped=
+roZef/personapi-zef" target=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTin=
+F iMbLvy">PedroZef/personapi-zef</a></div><div class=3D"sc-furwcr bkqqri"><=
+h2 class=3D"sc-pVTFL ORNId">projeto-diozef-poo</h2><h2 class=3D"sc-jrQzAO u=
+Kbfh">full name:</h2><a href=3D"http://localhost:3000/PedroZef/projeto-dioz=
+ef-poo" target=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">Ped=
+roZef/projeto-diozef-poo</a></div><div class=3D"sc-furwcr bkqqri"><h2 class=
+=3D"sc-pVTFL ORNId">zefdio-shopping</h2><h2 class=3D"sc-jrQzAO uKbfh">full =
+name:</h2><a href=3D"http://localhost:3000/PedroZef/zefdio-shopping" target=
+=3D"_blank" rel=3D"noreferrer" class=3D"sc-kDTinF iMbLvy">PedroZef/zefdio-s=
+hopping</a></div></div></div><div class=3D"sc-bqiRlB enkNUv" role=3D"tabpan=
+el" id=3D"react-tabs-3" aria-labelledby=3D"react-tabs-2"></div></div></sect=
+ion></main></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+ =20
+
+</body><editor-card style=3D"position:absolute;top:0px;left:0px;z-index:aut=
+o;display: block !important"><div dir=3D"ltr" style=3D"all: initial;"><div =
+style=3D"color: initial; font: initial; font-feature-settings: initial; fon=
+t-kerning: initial; font-optical-sizing: initial; font-synthesis: initial; =
+font-variation-settings: initial; forced-color-adjust: initial; text-orient=
+ation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -=
+webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-=
+mode: initial; writing-mode: initial; zoom: initial; accent-color: initial;=
+ place-content: initial; place-items: initial; place-self: initial; alignme=
+nt-baseline: initial; animation: initial; app-region: initial; appearance: =
+initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibili=
+ty: initial; background: initial; background-blend-mode: initial; baseline-=
+shift: initial; block-size: initial; border-block: initial; border: initial=
+; border-radius: initial; border-collapse: initial; border-end-end-radius: =
+initial; border-end-start-radius: initial; border-inline: initial; border-s=
+tart-end-radius: initial; border-start-start-radius: initial; inset: initia=
+l; box-shadow: initial; box-sizing: initial; break-after: initial; break-be=
+fore: initial; break-inside: initial; buffered-rendering: initial; caption-=
+side: initial; caret-color: initial; clear: initial; clip: initial; clip-pa=
+th: initial; clip-rule: initial; color-interpolation: initial; color-interp=
+olation-filters: initial; color-rendering: initial; color-scheme: initial; =
+columns: initial; column-fill: initial; gap: initial; column-rule: initial;=
+ column-span: initial; contain: initial; contain-intrinsic-block-size: init=
+ial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initia=
+l; content: initial; content-visibility: initial; counter-increment: initia=
+l; counter-reset: initial; counter-set: initial; cursor: initial; cx: initi=
+al; cy: initial; d: initial; display: initial; dominant-baseline: initial; =
+empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: init=
+ial; filter: initial; flex: initial; flex-flow: initial; float: initial; fl=
+ood-color: initial; flood-opacity: initial; grid: initial; grid-area: initi=
+al; height: initial; hyphens: initial; image-orientation: initial; image-re=
+ndering: initial; inline-size: initial; inset-block: initial; inset-inline:=
+ initial; isolation: initial; letter-spacing: initial; lighting-color: init=
+ial; line-break: initial; list-style: initial; margin-block: initial; margi=
+n: initial; margin-inline: initial; marker: initial; mask: initial; mask-ty=
+pe: initial; max-block-size: initial; max-height: initial; max-inline-size:=
+ initial; max-width: initial; min-block-size: initial; min-height: initial;=
+ min-inline-size: initial; min-width: initial; mix-blend-mode: initial; obj=
+ect-fit: initial; object-position: initial; offset: initial; opacity: initi=
+al; order: initial; origin-trial-test-property: initial; orphans: initial; =
+outline: initial; outline-offset: initial; overflow-anchor: initial; overfl=
+ow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overscr=
+oll-behavior-block: initial; overscroll-behavior-inline: initial; overscrol=
+l-behavior: initial; padding-block: initial; padding: initial; padding-inli=
+ne: initial; page: initial; page-orientation: initial; paint-order: initial=
+; perspective: initial; perspective-origin: initial; pointer-events: initia=
+l; position: absolute; quotes: initial; r: initial; resize: initial; ruby-p=
+osition: initial; rx: initial; ry: initial; scroll-behavior: initial; scrol=
+l-margin-block: initial; scroll-margin: initial; scroll-margin-inline: init=
+ial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding=
+-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; sc=
+roll-snap-type: initial; scrollbar-gutter: initial; shape-image-threshold: =
+initial; shape-margin: initial; shape-outside: initial; shape-rendering: in=
+itial; size: initial; speak: initial; stop-color: initial; stop-opacity: in=
+itial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initi=
+al; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: i=
+nitial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; =
+table-layout: initial; text-align: initial; text-align-last: initial; text-=
+anchor: initial; text-combine-upright: initial; text-decoration: initial; t=
+ext-decoration-skip-ink: initial; text-indent: initial; text-overflow: init=
+ial; text-shadow: initial; text-size-adjust: initial; text-transform: initi=
+al; text-underline-offset: initial; text-underline-position: initial; touch=
+-action: initial; transform: initial; transform-box: initial; transform-ori=
+gin: initial; transform-style: initial; transition: initial; user-select: i=
+nitial; vector-effect: initial; vertical-align: initial; visibility: initia=
+l; border-spacing: initial; -webkit-border-image: initial; -webkit-box-alig=
+n: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: i=
+nitial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -web=
+kit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: in=
+itial; -webkit-highlight: initial; -webkit-hyphenate-character: initial; -w=
+ebkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-im=
+age: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webk=
+it-perspective-origin-x: initial; -webkit-perspective-origin-y: initial; -w=
+ebkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-r=
+uby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-c=
+ombine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-=
+emphasis: initial; -webkit-text-emphasis-position: initial; -webkit-text-fi=
+ll-color: initial; -webkit-text-security: initial; -webkit-text-stroke: ini=
+tial; -webkit-transform-origin-x: initial; -webkit-transform-origin-y: init=
+ial; -webkit-transform-origin-z: initial; -webkit-user-drag: initial; -webk=
+it-user-modify: initial; white-space: initial; widows: initial; width: init=
+ial; will-change: initial; word-break: initial; word-spacing: initial; x: i=
+nitial; y: initial; z-index: 2147483647;"><link rel=3D"stylesheet" href=3D"=
+chrome-extension://hokifickgkhplphjiodbggjmoafhignh/fonts/fabric-icons.css"=
+></div><div style=3D"color: initial; font: initial; font-feature-settings: =
+initial; font-kerning: initial; font-optical-sizing: initial; font-synthesi=
+s: initial; font-variation-settings: initial; forced-color-adjust: initial;=
+ text-orientation: initial; text-rendering: initial; -webkit-font-smoothing=
+: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -web=
+kit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-col=
+or: initial; place-content: initial; place-items: initial; place-self: init=
+ial; alignment-baseline: initial; animation: initial; app-region: initial; =
+appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backf=
+ace-visibility: initial; background: initial; background-blend-mode: initia=
+l; baseline-shift: initial; block-size: initial; border-block: initial; bor=
+der: initial; border-radius: initial; border-collapse: initial; border-end-=
+end-radius: initial; border-end-start-radius: initial; border-inline: initi=
+al; border-start-end-radius: initial; border-start-start-radius: initial; i=
+nset: initial; box-shadow: initial; box-sizing: initial; break-after: initi=
+al; break-before: initial; break-inside: initial; buffered-rendering: initi=
+al; caption-side: initial; caret-color: initial; clear: initial; clip: init=
+ial; clip-path: initial; clip-rule: initial; color-interpolation: initial; =
+color-interpolation-filters: initial; color-rendering: initial; color-schem=
+e: initial; columns: initial; column-fill: initial; gap: initial; column-ru=
+le: initial; column-span: initial; contain: initial; contain-intrinsic-bloc=
+k-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-=
+size: initial; content: initial; content-visibility: initial; counter-incre=
+ment: initial; counter-reset: initial; counter-set: initial; cursor: initia=
+l; cx: initial; cy: initial; d: initial; display: initial; dominant-baselin=
+e: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fil=
+l-rule: initial; filter: initial; flex: initial; flex-flow: initial; float:=
+ initial; flood-color: initial; flood-opacity: initial; grid: initial; grid=
+-area: initial; height: initial; hyphens: initial; image-orientation: initi=
+al; image-rendering: initial; inline-size: initial; inset-block: initial; i=
+nset-inline: initial; isolation: initial; letter-spacing: initial; lighting=
+-color: initial; line-break: initial; list-style: initial; margin-block: in=
+itial; margin: initial; margin-inline: initial; marker: initial; mask: init=
+ial; mask-type: initial; max-block-size: initial; max-height: initial; max-=
+inline-size: initial; max-width: initial; min-block-size: initial; min-heig=
+ht: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: =
+initial; object-fit: initial; object-position: initial; offset: initial; op=
+acity: initial; order: initial; origin-trial-test-property: initial; orphan=
+s: initial; outline: initial; outline-offset: initial; overflow-anchor: ini=
+tial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: init=
+ial; overscroll-behavior-block: initial; overscroll-behavior-inline: initia=
+l; overscroll-behavior: initial; padding-block: initial; padding: initial; =
+padding-inline: initial; page: initial; page-orientation: initial; paint-or=
+der: initial; perspective: initial; perspective-origin: initial; pointer-ev=
+ents: initial; position: absolute; quotes: initial; r: initial; resize: ini=
+tial; ruby-position: initial; rx: initial; ry: initial; scroll-behavior: in=
+itial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-=
+inline: initial; scroll-padding-block: initial; scroll-padding: initial; sc=
+roll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop:=
+ initial; scroll-snap-type: initial; scrollbar-gutter: initial; shape-image=
+-threshold: initial; shape-margin: initial; shape-outside: initial; shape-r=
+endering: initial; size: initial; speak: initial; stop-color: initial; stop=
+-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dasho=
+ffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-m=
+iterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-siz=
+e: initial; table-layout: initial; text-align: initial; text-align-last: in=
+itial; text-anchor: initial; text-combine-upright: initial; text-decoration=
+: initial; text-decoration-skip-ink: initial; text-indent: initial; text-ov=
+erflow: initial; text-shadow: initial; text-size-adjust: initial; text-tran=
+sform: initial; text-underline-offset: initial; text-underline-position: in=
+itial; touch-action: initial; transform: initial; transform-box: initial; t=
+ransform-origin: initial; transform-style: initial; transition: initial; us=
+er-select: initial; vector-effect: initial; vertical-align: initial; visibi=
+lity: initial; border-spacing: initial; -webkit-border-image: initial; -web=
+kit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-=
+direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: i=
+nitial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box=
+-reflect: initial; -webkit-highlight: initial; -webkit-hyphenate-character:=
+ initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit=
+-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: in=
+itial; -webkit-perspective-origin-x: initial; -webkit-perspective-origin-y:=
+ initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initia=
+l; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -w=
+ebkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -=
+webkit-text-emphasis: initial; -webkit-text-emphasis-position: initial; -we=
+bkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text=
+-stroke: initial; -webkit-transform-origin-x: initial; -webkit-transform-or=
+igin-y: initial; -webkit-transform-origin-z: initial; -webkit-user-drag: in=
+itial; -webkit-user-modify: initial; white-space: initial; widows: initial;=
+ width: initial; will-change: initial; word-break: initial; word-spacing: i=
+nitial; x: initial; y: initial; z-index: 2147483647;"><link rel=3D"styleshe=
+et" href=3D"chrome-extension://hokifickgkhplphjiodbggjmoafhignh/fonts/fabri=
+c-icons.css"></div><div style=3D"color: initial; font: initial; font-featur=
+e-settings: initial; font-kerning: initial; font-optical-sizing: initial; f=
+ont-synthesis: initial; font-variation-settings: initial; forced-color-adju=
+st: initial; text-orientation: initial; text-rendering: initial; -webkit-fo=
+nt-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: i=
+nitial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial=
+; accent-color: initial; place-content: initial; place-items: initial; plac=
+e-self: initial; alignment-baseline: initial; animation: initial; app-regio=
+n: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: in=
+itial; backface-visibility: initial; background: initial; background-blend-=
+mode: initial; baseline-shift: initial; block-size: initial; border-block: =
+initial; border: initial; border-radius: initial; border-collapse: initial;=
+ border-end-end-radius: initial; border-end-start-radius: initial; border-i=
+nline: initial; border-start-end-radius: initial; border-start-start-radius=
+: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-=
+after: initial; break-before: initial; break-inside: initial; buffered-rend=
+ering: initial; caption-side: initial; caret-color: initial; clear: initial=
+; clip: initial; clip-path: initial; clip-rule: initial; color-interpolatio=
+n: initial; color-interpolation-filters: initial; color-rendering: initial;=
+ color-scheme: initial; columns: initial; column-fill: initial; gap: initia=
+l; column-rule: initial; column-span: initial; contain: initial; contain-in=
+trinsic-block-size: initial; contain-intrinsic-size: initial; contain-intri=
+nsic-inline-size: initial; content: initial; content-visibility: initial; c=
+ounter-increment: initial; counter-reset: initial; counter-set: initial; cu=
+rsor: initial; cx: initial; cy: initial; d: initial; display: initial; domi=
+nant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: =
+initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: ini=
+tial; float: initial; flood-color: initial; flood-opacity: initial; grid: i=
+nitial; grid-area: initial; height: initial; hyphens: initial; image-orient=
+ation: initial; image-rendering: initial; inline-size: initial; inset-block=
+: initial; inset-inline: initial; isolation: initial; letter-spacing: initi=
+al; lighting-color: initial; line-break: initial; list-style: initial; marg=
+in-block: initial; margin: initial; margin-inline: initial; marker: initial=
+; mask: initial; mask-type: initial; max-block-size: initial; max-height: i=
+nitial; max-inline-size: initial; max-width: initial; min-block-size: initi=
+al; min-height: initial; min-inline-size: initial; min-width: initial; mix-=
+blend-mode: initial; object-fit: initial; object-position: initial; offset:=
+ initial; opacity: initial; order: initial; origin-trial-test-property: ini=
+tial; orphans: initial; outline: initial; outline-offset: initial; overflow=
+-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; ov=
+erflow: initial; overscroll-behavior-block: initial; overscroll-behavior-in=
+line: initial; overscroll-behavior: initial; padding-block: initial; paddin=
+g: initial; padding-inline: initial; page: initial; page-orientation: initi=
+al; paint-order: initial; perspective: initial; perspective-origin: initial=
+; pointer-events: initial; position: absolute; quotes: initial; r: initial;=
+ resize: initial; ruby-position: initial; rx: initial; ry: initial; scroll-=
+behavior: initial; scroll-margin-block: initial; scroll-margin: initial; sc=
+roll-margin-inline: initial; scroll-padding-block: initial; scroll-padding:=
+ initial; scroll-padding-inline: initial; scroll-snap-align: initial; scrol=
+l-snap-stop: initial; scroll-snap-type: initial; scrollbar-gutter: initial;=
+ shape-image-threshold: initial; shape-margin: initial; shape-outside: init=
+ial; shape-rendering: initial; size: initial; speak: initial; stop-color: i=
+nitial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; =
+stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initi=
+al; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: init=
+ial; tab-size: initial; table-layout: initial; text-align: initial; text-al=
+ign-last: initial; text-anchor: initial; text-combine-upright: initial; tex=
+t-decoration: initial; text-decoration-skip-ink: initial; text-indent: init=
+ial; text-overflow: initial; text-shadow: initial; text-size-adjust: initia=
+l; text-transform: initial; text-underline-offset: initial; text-underline-=
+position: initial; touch-action: initial; transform: initial; transform-box=
+: initial; transform-origin: initial; transform-style: initial; transition:=
+ initial; user-select: initial; vector-effect: initial; vertical-align: ini=
+tial; visibility: initial; border-spacing: initial; -webkit-border-image: i=
+nitial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; =
+-webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordi=
+nal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial;=
+ -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-hyphenat=
+e-character: initial; -webkit-line-break: initial; -webkit-line-clamp: init=
+ial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-c=
+omposite: initial; -webkit-perspective-origin-x: initial; -webkit-perspecti=
+ve-origin-y: initial; -webkit-print-color-adjust: initial; -webkit-rtl-orde=
+ring: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color:=
+ initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect=
+: initial; -webkit-text-emphasis: initial; -webkit-text-emphasis-position: =
+initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; =
+-webkit-text-stroke: initial; -webkit-transform-origin-x: initial; -webkit-=
+transform-origin-y: initial; -webkit-transform-origin-z: initial; -webkit-u=
+ser-drag: initial; -webkit-user-modify: initial; white-space: initial; wido=
+ws: initial; width: initial; will-change: initial; word-break: initial; wor=
+d-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><link rel=
+=3D"stylesheet" href=3D"chrome-extension://hokifickgkhplphjiodbggjmoafhignh=
+/fonts/fabric-icons.css"></div><div style=3D"color: initial; font: initial;=
+ font-feature-settings: initial; font-kerning: initial; font-optical-sizing=
+: initial; font-synthesis: initial; font-variation-settings: initial; force=
+d-color-adjust: initial; text-orientation: initial; text-rendering: initial=
+; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-or=
+ientation: initial; -webkit-writing-mode: initial; writing-mode: initial; z=
+oom: initial; accent-color: initial; place-content: initial; place-items: i=
+nitial; place-self: initial; alignment-baseline: initial; animation: initia=
+l; app-region: initial; appearance: initial; aspect-ratio: initial; backdro=
+p-filter: initial; backface-visibility: initial; background: initial; backg=
+round-blend-mode: initial; baseline-shift: initial; block-size: initial; bo=
+rder-block: initial; border: initial; border-radius: initial; border-collap=
+se: initial; border-end-end-radius: initial; border-end-start-radius: initi=
+al; border-inline: initial; border-start-end-radius: initial; border-start-=
+start-radius: initial; inset: initial; box-shadow: initial; box-sizing: ini=
+tial; break-after: initial; break-before: initial; break-inside: initial; b=
+uffered-rendering: initial; caption-side: initial; caret-color: initial; cl=
+ear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-=
+interpolation: initial; color-interpolation-filters: initial; color-renderi=
+ng: initial; color-scheme: initial; columns: initial; column-fill: initial;=
+ gap: initial; column-rule: initial; column-span: initial; contain: initial=
+; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; c=
+ontain-intrinsic-inline-size: initial; content: initial; content-visibility=
+: initial; counter-increment: initial; counter-reset: initial; counter-set:=
+ initial; cursor: initial; cx: initial; cy: initial; d: initial; display: i=
+nitial; dominant-baseline: initial; empty-cells: initial; fill: initial; fi=
+ll-opacity: initial; fill-rule: initial; filter: initial; flex: initial; fl=
+ex-flow: initial; float: initial; flood-color: initial; flood-opacity: init=
+ial; grid: initial; grid-area: initial; height: initial; hyphens: initial; =
+image-orientation: initial; image-rendering: initial; inline-size: initial;=
+ inset-block: initial; inset-inline: initial; isolation: initial; letter-sp=
+acing: initial; lighting-color: initial; line-break: initial; list-style: i=
+nitial; margin-block: initial; margin: initial; margin-inline: initial; mar=
+ker: initial; mask: initial; mask-type: initial; max-block-size: initial; m=
+ax-height: initial; max-inline-size: initial; max-width: initial; min-block=
+-size: initial; min-height: initial; min-inline-size: initial; min-width: i=
+nitial; mix-blend-mode: initial; object-fit: initial; object-position: init=
+ial; offset: initial; opacity: initial; order: initial; origin-trial-test-p=
+roperty: initial; orphans: initial; outline: initial; outline-offset: initi=
+al; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap:=
+ initial; overflow: initial; overscroll-behavior-block: initial; overscroll=
+-behavior-inline: initial; overscroll-behavior: initial; padding-block: ini=
+tial; padding: initial; padding-inline: initial; page: initial; page-orient=
+ation: initial; paint-order: initial; perspective: initial; perspective-ori=
+gin: initial; pointer-events: initial; position: absolute; quotes: initial;=
+ r: initial; resize: initial; ruby-position: initial; rx: initial; ry: init=
+ial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin:=
+ initial; scroll-margin-inline: initial; scroll-padding-block: initial; scr=
+oll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: in=
+itial; scroll-snap-stop: initial; scroll-snap-type: initial; scrollbar-gutt=
+er: initial; shape-image-threshold: initial; shape-margin: initial; shape-o=
+utside: initial; shape-rendering: initial; size: initial; speak: initial; s=
+top-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharra=
+y: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-lin=
+ejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke=
+-width: initial; tab-size: initial; table-layout: initial; text-align: init=
+ial; text-align-last: initial; text-anchor: initial; text-combine-upright: =
+initial; text-decoration: initial; text-decoration-skip-ink: initial; text-=
+indent: initial; text-overflow: initial; text-shadow: initial; text-size-ad=
+just: initial; text-transform: initial; text-underline-offset: initial; tex=
+t-underline-position: initial; touch-action: initial; transform: initial; t=
+ransform-box: initial; transform-origin: initial; transform-style: initial;=
+ transition: initial; user-select: initial; vector-effect: initial; vertica=
+l-align: initial; visibility: initial; border-spacing: initial; -webkit-bor=
+der-image: initial; -webkit-box-align: initial; -webkit-box-decoration-brea=
+k: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -web=
+kit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pa=
+ck: initial; -webkit-box-reflect: initial; -webkit-highlight: initial; -web=
+kit-hyphenate-character: initial; -webkit-line-break: initial; -webkit-line=
+-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -w=
+ebkit-mask-composite: initial; -webkit-perspective-origin-x: initial; -webk=
+it-perspective-origin-y: initial; -webkit-print-color-adjust: initial; -web=
+kit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-high=
+light-color: initial; -webkit-text-combine: initial; -webkit-text-decoratio=
+ns-in-effect: initial; -webkit-text-emphasis: initial; -webkit-text-emphasi=
+s-position: initial; -webkit-text-fill-color: initial; -webkit-text-securit=
+y: initial; -webkit-text-stroke: initial; -webkit-transform-origin-x: initi=
+al; -webkit-transform-origin-y: initial; -webkit-transform-origin-z: initia=
+l; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: i=
+nitial; widows: initial; width: initial; will-change: initial; word-break: =
+initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647=
+;"><link rel=3D"stylesheet" href=3D"chrome-extension://hokifickgkhplphjiodb=
+ggjmoafhignh/fonts/fabric-icons.css"><div style=3D"all: initial;"><template=
+ shadowmode=3D"open"><div role=3D"status" aria-live=3D"polite" id=3D"ms-squ=
+iggle-tooltip" style=3D"overflow-x: hidden;"></div></template></div></div><=
+/div></editor-card></html>
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-31093da1-2a1c-4ddc-83ad-cec9297ee152@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes editorbx-css-0 {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes editorbx-css-1 {=20
+  0% { opacity: 1; }
+  100% { opacity: 0; visibility: hidden; }
+}
+
+@keyframes editorbx-css-2 {=20
+  0% { transform: translate3d(-10px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-3 {=20
+  0% { transform: translate3d(-20px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-4 {=20
+  0% { transform: translate3d(-40px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-5 {=20
+  0% { transform: translate3d(-400px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-6 {=20
+  0% { transform: translate3d(10px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-7 {=20
+  0% { transform: translate3d(20px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-8 {=20
+  0% { transform: translate3d(40px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-9 {=20
+  0% { transform: translate3d(400px, 0px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-10 {=20
+  0% { transform: translate3d(0px, 10px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-11 {=20
+  0% { transform: translate3d(0px, 20px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-12 {=20
+  0% { transform: translate3d(0px, -10px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-13 {=20
+  0% { transform: translate3d(0px, -20px, 0px); pointer-events: none; }
+  100% { transform: translate3d(0px, 0px, 0px); pointer-events: auto; }
+}
+
+@keyframes editorbx-css-14 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(10px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-15 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(20px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-16 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(40px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-17 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(400px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-18 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(-10px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-19 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(-20px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-20 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(-40px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-21 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(-400px, 0px, 0px); }
+}
+
+@keyframes editorbx-css-22 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(0px, -10px, 0px); }
+}
+
+@keyframes editorbx-css-23 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(0px, -20px, 0px); }
+}
+
+@keyframes editorbx-css-24 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(0px, 10px, 0px); }
+}
+
+@keyframes editorbx-css-25 {=20
+  0% { transform: translate3d(0px, 0px, 0px); }
+  100% { transform: translate3d(0px, 20px, 0px); }
+}
+
+@keyframes editorbx-css-26 {=20
+  0% { transform: scale3d(0.98, 0.98, 1); }
+  100% { transform: scale3d(1, 1, 1); }
+}
+
+@keyframes editorbx-css-27 {=20
+  0% { transform: scale3d(1, 1, 1); }
+  100% { transform: scale3d(0.98, 0.98, 1); }
+}
+
+@keyframes editorbx-css-28 {=20
+  0% { transform: scale3d(1.03, 1.03, 1); }
+  100% { transform: scale3d(1, 1, 1); }
+}
+
+@keyframes editorbx-css-29 {=20
+  0% { transform: scale3d(1, 1, 1); }
+  100% { transform: scale3d(1.03, 1.03, 1); }
+}
+
+@keyframes editorbx-css-30 {=20
+  0% { transform: rotateZ(0deg); }
+  100% { transform: rotateZ(90deg); }
+}
+
+@keyframes editorbx-css-31 {=20
+  0% { transform: rotateZ(0deg); }
+  100% { transform: rotateZ(-90deg); }
+}
+
+@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
+arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
+-light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
+iles/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-light.woff") format=
+("woff"); font-weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
+arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
+-semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
+om/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-semilight.woff"=
+) format("woff"); font-weight: 300; font-style: normal; font-display: swap;=
+ }
+
+@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
+arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
+-regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
+/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-regular.woff") fo=
+rmat("woff"); font-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
+arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
+-semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
+m/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-semibold.woff") =
+format("woff"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
+arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
+-bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
+les/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-bold.woff") format("=
+woff"); font-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-lig=
+ht.woff2") format("woff2"), url("https://static2.sharepointonline.com/files=
+/fabric/assets/fonts/segoeui-arabic/segoeui-light.woff") format("woff"); fo=
+nt-weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-sem=
+ilight.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
+iles/fabric/assets/fonts/segoeui-arabic/segoeui-semilight.woff") format("wo=
+ff"); font-weight: 300; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-reg=
+ular.woff2") format("woff2"), url("https://static2.sharepointonline.com/fil=
+es/fabric/assets/fonts/segoeui-arabic/segoeui-regular.woff") format("woff")=
+; font-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-sem=
+ibold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
+les/fabric/assets/fonts/segoeui-arabic/segoeui-semibold.woff") format("woff=
+"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-bol=
+d.woff2") format("woff2"), url("https://static2.sharepointonline.com/files/=
+fabric/assets/fonts/segoeui-arabic/segoeui-bold.woff") format("woff"); font=
+-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
+-light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
+iles/fabric/assets/fonts/segoeui-cyrillic/segoeui-light.woff") format("woff=
+"); font-weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
+-semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
+om/files/fabric/assets/fonts/segoeui-cyrillic/segoeui-semilight.woff") form=
+at("woff"); font-weight: 300; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
+-regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
+/files/fabric/assets/fonts/segoeui-cyrillic/segoeui-regular.woff") format("=
+woff"); font-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
+-semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
+m/files/fabric/assets/fonts/segoeui-cyrillic/segoeui-semibold.woff") format=
+("woff"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
+-bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
+les/fabric/assets/fonts/segoeui-cyrillic/segoeui-bold.woff") format("woff")=
+; font-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
+/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
+n/segoeui-light.woff2") format("woff2"), url("https://static2.sharepointonl=
+ine.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-light.woff")=
+ format("woff"); font-weight: 100; font-style: normal; font-display: swap; =
+}
+
+@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
+/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
+n/segoeui-semilight.woff2") format("woff2"), url("https://static2.sharepoin=
+tonline.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-semiligh=
+t.woff") format("woff"); font-weight: 300; font-style: normal; font-display=
+: swap; }
+
+@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
+/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
+n/segoeui-regular.woff2") format("woff2"), url("https://static2.sharepointo=
+nline.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-regular.wo=
+ff") format("woff"); font-weight: 400; font-style: normal; font-display: sw=
+ap; }
+
+@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
+/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
+n/segoeui-semibold.woff2") format("woff2"), url("https://static2.sharepoint=
+online.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-semibold.=
+woff") format("woff"); font-weight: 600; font-style: normal; font-display: =
+swap; }
+
+@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
+/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
+n/segoeui-bold.woff2") format("woff2"), url("https://static2.sharepointonli=
+ne.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-bold.woff") f=
+ormat("woff"); font-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
+.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-light=
+.woff2") format("woff2"), url("https://static2.sharepointonline.com/files/f=
+abric/assets/fonts/segoeui-greek/segoeui-light.woff") format("woff"); font-=
+weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
+.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-semil=
+ight.woff2") format("woff2"), url("https://static2.sharepointonline.com/fil=
+es/fabric/assets/fonts/segoeui-greek/segoeui-semilight.woff") format("woff"=
+); font-weight: 300; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
+.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-regul=
+ar.woff2") format("woff2"), url("https://static2.sharepointonline.com/files=
+/fabric/assets/fonts/segoeui-greek/segoeui-regular.woff") format("woff"); f=
+ont-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
+.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-semib=
+old.woff2") format("woff2"), url("https://static2.sharepointonline.com/file=
+s/fabric/assets/fonts/segoeui-greek/segoeui-semibold.woff") format("woff");=
+ font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
+.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-bold.=
+woff2") format("woff2"), url("https://static2.sharepointonline.com/files/fa=
+bric/assets/fonts/segoeui-greek/segoeui-bold.woff") format("woff"); font-we=
+ight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-lig=
+ht.woff2") format("woff2"), url("https://static2.sharepointonline.com/files=
+/fabric/assets/fonts/segoeui-hebrew/segoeui-light.woff") format("woff"); fo=
+nt-weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-sem=
+ilight.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
+iles/fabric/assets/fonts/segoeui-hebrew/segoeui-semilight.woff") format("wo=
+ff"); font-weight: 300; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-reg=
+ular.woff2") format("woff2"), url("https://static2.sharepointonline.com/fil=
+es/fabric/assets/fonts/segoeui-hebrew/segoeui-regular.woff") format("woff")=
+; font-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-sem=
+ibold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
+les/fabric/assets/fonts/segoeui-hebrew/segoeui-semibold.woff") format("woff=
+"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
+2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-bol=
+d.woff2") format("woff2"), url("https://static2.sharepointonline.com/files/=
+fabric/assets/fonts/segoeui-hebrew/segoeui-bold.woff") format("woff"); font=
+-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
+atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
+oeui-light.woff2") format("woff2"), url("https://static2.sharepointonline.c=
+om/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-light.woff") format=
+("woff"); font-weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
+atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
+oeui-semilight.woff2") format("woff2"), url("https://static2.sharepointonli=
+ne.com/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-semilight.woff"=
+) format("woff"); font-weight: 300; font-style: normal; font-display: swap;=
+ }
+
+@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
+atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
+oeui-regular.woff2") format("woff2"), url("https://static2.sharepointonline=
+.com/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-regular.woff") fo=
+rmat("woff"); font-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
+atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
+oeui-semibold.woff2") format("woff2"), url("https://static2.sharepointonlin=
+e.com/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-semibold.woff") =
+format("woff"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
+atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
+oeui-bold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
+m/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-bold.woff") format("=
+woff"); font-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
+ UI Light"), url("https://static2.sharepointonline.com/files/fabric/assets/=
+fonts/segoeui-westeuropean/segoeui-light.woff2") format("woff2"), url("http=
+s://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuro=
+pean/segoeui-light.woff") format("woff"); font-weight: 100; font-style: nor=
+mal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
+ UI SemiLight"), url("https://static2.sharepointonline.com/files/fabric/ass=
+ets/fonts/segoeui-westeuropean/segoeui-semilight.woff2") format("woff2"), u=
+rl("https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-=
+westeuropean/segoeui-semilight.woff") format("woff"); font-weight: 300; fon=
+t-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
+ UI"), url("https://static2.sharepointonline.com/files/fabric/assets/fonts/=
+segoeui-westeuropean/segoeui-regular.woff2") format("woff2"), url("https://=
+static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean=
+/segoeui-regular.woff") format("woff"); font-weight: 400; font-style: norma=
+l; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
+ UI SemiBold"), url("https://static2.sharepointonline.com/files/fabric/asse=
+ts/fonts/segoeui-westeuropean/segoeui-semibold.woff2") format("woff2"), url=
+("https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-we=
+steuropean/segoeui-semibold.woff") format("woff"); font-weight: 600; font-s=
+tyle: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
+ UI Bold"), url("https://static2.sharepointonline.com/files/fabric/assets/f=
+onts/segoeui-westeuropean/segoeui-bold.woff2") format("woff2"), url("https:=
+//static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeurope=
+an/segoeui-bold.woff") format("woff"); font-weight: 700; font-style: normal=
+; font-display: swap; }
+
+@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
+sets/fonts/selawik/selawik-light.woff2") format("woff2"), url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-light.wo=
+ff") format("woff"); font-weight: 100; font-style: normal; font-display: sw=
+ap; }
+
+@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
+sets/fonts/selawik/selawik-semilight.woff2") format("woff2"), url("https://=
+static2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-semi=
+light.woff") format("woff"); font-weight: 300; font-style: normal; font-dis=
+play: swap; }
+
+@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
+sets/fonts/selawik/selawik-regular.woff2") format("woff2"), url("https://st=
+atic2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-regula=
+r.woff") format("woff"); font-weight: 400; font-style: normal; font-display=
+: swap; }
+
+@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
+sets/fonts/selawik/selawik-semibold.woff2") format("woff2"), url("https://s=
+tatic2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-semib=
+old.woff") format("woff"); font-weight: 600; font-style: normal; font-displ=
+ay: swap; }
+
+@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
+sets/fonts/selawik/selawik-bold.woff2") format("woff2"), url("https://stati=
+c2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-bold.woff=
+") format("woff"); font-weight: 700; font-style: normal; font-display: swap=
+; }
+
+@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
+-light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
+iles/fabric/assets/fonts/segoeui-armenian/segoeui-light.woff") format("woff=
+"); font-weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
+-semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
+om/files/fabric/assets/fonts/segoeui-armenian/segoeui-semilight.woff") form=
+at("woff"); font-weight: 300; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
+-regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
+/files/fabric/assets/fonts/segoeui-armenian/segoeui-regular.woff") format("=
+woff"); font-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
+-semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
+m/files/fabric/assets/fonts/segoeui-armenian/segoeui-semibold.woff") format=
+("woff"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
+-bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
+les/fabric/assets/fonts/segoeui-armenian/segoeui-bold.woff") format("woff")=
+; font-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
+-light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
+iles/fabric/assets/fonts/segoeui-georgian/segoeui-light.woff") format("woff=
+"); font-weight: 100; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
+-semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
+om/files/fabric/assets/fonts/segoeui-georgian/segoeui-semilight.woff") form=
+at("woff"); font-weight: 300; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
+-regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
+/files/fabric/assets/fonts/segoeui-georgian/segoeui-regular.woff") format("=
+woff"); font-weight: 400; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
+-semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
+m/files/fabric/assets/fonts/segoeui-georgian/segoeui-semibold.woff") format=
+("woff"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
+ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
+-bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
+les/fabric/assets/fonts/segoeui-georgian/segoeui-bold.woff") format("woff")=
+; font-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
+arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
+-semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
+om/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-semilight.woff"=
+) format("woff"); font-weight: 100; font-style: normal; font-display: swap;=
+ }
+
+@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
+arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
+-bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
+les/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-bold.woff") format("=
+woff"); font-weight: 600; font-style: normal; font-display: swap; }
+
+.editorbx-css-32 { overflow: hidden !important; }
+
+.editorbx-css-33 { animation-name: editorbx-css-0, editorbx-css-10; animati=
+on-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2,=
+ 1); animation-fill-mode: both; }
+
+.editorbx-css-34 { animation-name: editorbx-css-0, editorbx-css-12; animati=
+on-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2,=
+ 1); animation-fill-mode: both; }
+
+.editorbx-css-35 { animation-name: editorbx-css-0, editorbx-css-6; animatio=
+n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
+1); animation-fill-mode: both; }
+
+.editorbx-css-36 { animation-name: editorbx-css-0, editorbx-css-2; animatio=
+n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
+1); animation-fill-mode: both; }
+
+.editorbx-root-37 { display: inline-block; }
+
+.editorbx-placeholder-38 { width: 1em; }
+
+.editorbx-image-39 { overflow: hidden; }
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-527cb3aa-8c6e-4d91-ac39-b23b429034c0@mhtml.blink
+
+@charset "utf-8";
+
+.eRqfMG { display: flex; width: 100%; -webkit-box-pack: justify; justify-co=
+ntent: space-between; padding: 4px; }
+
+.eRqfMG input { border: 1px solid rgb(204, 204, 204); border-radius: 8px; w=
+idth: 100%; height: 44px; padding: 8px; font-weight: 500; }
+
+.eRqfMG button { background-color: rgb(34, 94, 216); padding: 8px 16px; mar=
+gin: 0px 16px; border-radius: 8px; }
+
+.eRqfMG button:hover { background-color: rgb(44, 82, 130); box-shadow: rgba=
+(0, 0, 0, 0.2) 3px 2px 10px; }
+
+.eRqfMG button span { font-weight: bold; color: rgb(255, 255, 255); }
+
+.fpsWM { margin: 16px; }
+
+.bbEdoI { margin: 16px; display: flex; -webkit-box-pack: center; justify-co=
+ntent: center; }
+
+.bbEdoI h1 { font-weight: bold; font-size: 32px; }
+
+.dysGPw { display: flex; align-items: flex-start; }
+
+.jGPjRs { display: flex; flex-direction: column; align-items: flex-start; -=
+webkit-box-pack: justify; justify-content: space-between; margin-left: 8px;=
+ height: 200px; }
+
+.jGPjRs h1 { font-size: 32px; font-weight: bold; }
+
+.jGPjRs h3 { font-size: 18px; font-weight: bold; }
+
+.jGPjRs h4 { font-size: 16px; font-weight: bold; }
+
+.dDpbjf { display: flex; -webkit-box-align: center; align-items: center; }
+
+.dDpbjf div { margin: 8px; text-align: center; }
+
+.csKhxk { display: flex; -webkit-box-align: center; align-items: center; ma=
+rgin-top: 8px; }
+
+.csKhxk h3 { margin-right: 8px; }
+
+.csKhxk a { font-size: 18px; color: blue; font-weight: bold; }
+
+.cMsbFZ { border-radius: 50%; width: 200px; margin: 8px; }
+
+.bkqqri { padding: 8px; border-radius: 8px; border: 1px solid rgb(204, 204,=
+ 204); margin: 16px; width: 350px; height: 150px; align-content: center; }
+
+.ORNId { font-size: 18px; font-weight: bold; margin: 8px 0px; }
+
+.uKbfh { font-size: 16px; font-weight: bold; margin: 8px 0px; color: rgb(45=
+, 55, 72); }
+
+.iMbLvy { font-size: 16px; font-weight: bold; margin: 8px 0px; color: rgb(4=
+9, 130, 206); }
+
+.degwzq { font-size: 16px; width: 100%; margin-top: 16px; }
+
+.bVjpUf { list-style-type: none; padding: 4px; display: flex; margin: 0px; =
+}
+
+.hSVaCP { border-radius: 16px; border: 1px solid rgb(204, 204, 204); paddin=
+g: 16px; user-select: none; cursor: pointer; z-index: 99999; margin: 8px; }
+
+.hSVaCP:focus { outline: none; }
+
+.hSVaCP.is-selected { box-shadow: rgba(0, 0, 0, 0.2) 3px 2px 10px; }
+
+.enkNUv { padding: 16px; display: none; margin-top: -5px; }
+
+.enkNUv.is-selected { display: block; }
+
+.gtKECT { display: flex; -webkit-box-pack: start; justify-content: flex-sta=
+rt; flex-wrap: wrap; }
+
+*, ::before, ::after { box-sizing: border-box; border-style: solid; border-=
+width: 0px; }
+
+html { line-height: 1.15; text-size-adjust: 100%; -webkit-tap-highlight-col=
+or: transparent; }
+
+body { margin: 0px; font-family: roboto, sans-serif; }
+
+main { display: block; }
+
+p, table, blockquote, address, pre, iframe, form, figure, dl { margin: 0px;=
+ }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; line-height: inherit; font-wei=
+ght: inherit; margin: 0px; }
+
+ul, ol { margin: 0px; padding: 0px; list-style: none; }
+
+dt { font-weight: bold; }
+
+dd { margin-left: 0px; }
+
+hr { box-sizing: content-box; height: 0px; overflow: visible; border-top-wi=
+dth: 1px; margin: 0px; clear: both; color: inherit; }
+
+pre { font-family: monospace, monospace; font-size: inherit; }
+
+address { font-style: inherit; }
+
+a { background-color: transparent; text-decoration: none; color: inherit; }
+
+abbr[title] { text-decoration: underline dotted; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, samp { font-family: monospace, monospace; font-size: inherit; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+img, embed, object, iframe { vertical-align: bottom; }
+
+button, input, optgroup, select, textarea { appearance: none; vertical-alig=
+n: middle; color: inherit; font: inherit; background: transparent; padding:=
+ 0px; margin: 0px; outline: 0px; border-radius: 0px; text-align: inherit; }
+
+[type=3D"checkbox"] { appearance: checkbox; }
+
+[type=3D"radio"] { appearance: radio; }
+
+button, input { overflow: visible; }
+
+button, select { text-transform: none; }
+
+button, [type=3D"button"], [type=3D"reset"], [type=3D"submit"] { cursor: po=
+inter; appearance: none; }
+
+button[disabled], [type=3D"button"][disabled], [type=3D"reset"][disabled], =
+[type=3D"submit"][disabled] { cursor: default; }
+
+option { padding: 0px; }
+
+fieldset { margin: 0px; padding: 0px; min-width: 0px; }
+
+legend { color: inherit; display: table; max-width: 100%; padding: 0px; whi=
+te-space: normal; }
+
+progress { vertical-align: baseline; }
+
+textarea { overflow: auto; }
+
+[type=3D"number"]::-webkit-inner-spin-button, [type=3D"number"]::-webkit-ou=
+ter-spin-button { height: auto; }
+
+[type=3D"search"] { outline-offset: -2px; }
+
+[type=3D"search"]::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+label[for] { cursor: pointer; }
+
+details { display: block; }
+
+summary { display: list-item; }
+
+[contenteditable] { outline: none; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+caption { text-align: left; }
+
+td, th { vertical-align: top; padding: 0px; }
+
+th { text-align: left; font-weight: bold; }
+
+template { display: none; }
+
+[hidden] { display: none; }
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-57a09472-8200-4807-b3dd-12bc37c1ed05@mhtml.blink
+
+@charset "utf-8";
+
+@media print {
+  .ms-editor-squiggles-container { display: none !important; }
+}
+
+.ms-editor-squiggles-container { all: initial; }
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu=
+92Fr1Mu51QrEz0dL_nz.woff2") format("woff2"); unicode-range: U+460-52F, U+1C=
+80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu=
+92Fr1Mu51QrEzQdL_nz.woff2") format("woff2"); unicode-range: U+400-45F, U+49=
+0-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu=
+92Fr1Mu51QrEzwdL_nz.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu=
+92Fr1Mu51QrEzMdL_nz.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu=
+92Fr1Mu51QrEz8dL_nz.woff2") format("woff2"); unicode-range: U+102-103, U+11=
+0-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu=
+92Fr1Mu51QrEz4dL_nz.woff2") format("woff2"); unicode-range: U+100-24F, U+25=
+9, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A7=
+20-A7FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu=
+92Fr1Mu51QrEzAdLw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+=
+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+212=
+2, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TjASc3CsTKlA.woff2") format("woff2"); unicode-range: U+460-52F, U+=
+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TjASc-CsTKlA.woff2") format("woff2"); unicode-range: U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TjASc2CsTKlA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; =
+}
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TjASc5CsTKlA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TjASc1CsTKlA.woff2") format("woff2"); unicode-range: U+102-103, U+=
+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TjASc0CsTKlA.woff2") format("woff2"); unicode-range: U+100-24F, U+=
+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+=
+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TjASc6CsQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+21=
+22, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1Mu51xFIzIFKw.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80=
+-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1Mu51xMIzIFKw.woff2") format("woff2"); unicode-range: U+400-45F, U+490-=
+491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1Mu51xEIzIFKw.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1Mu51xLIzIFKw.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1Mu51xHIzIFKw.woff2") format("woff2"); unicode-range: U+102-103, U+110-=
+111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1Mu51xGIzIFKw.woff2") format("woff2"); unicode-range: U+100-24F, U+259,=
+ U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720=
+-A7FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1Mu51xIIzI.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152=
+-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, =
+U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51S7ACc3CsTKlA.woff2") format("woff2"); unicode-range: U+460-52F, U+=
+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51S7ACc-CsTKlA.woff2") format("woff2"); unicode-range: U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51S7ACc2CsTKlA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; =
+}
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51S7ACc5CsTKlA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51S7ACc1CsTKlA.woff2") format("woff2"); unicode-range: U+102-103, U+=
+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51S7ACc0CsTKlA.woff2") format("woff2"); unicode-range: U+100-24F, U+=
+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+=
+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51S7ACc6CsQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+21=
+22, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TzBic3CsTKlA.woff2") format("woff2"); unicode-range: U+460-52F, U+=
+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TzBic-CsTKlA.woff2") format("woff2"); unicode-range: U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TzBic2CsTKlA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; =
+}
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TzBic5CsTKlA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TzBic1CsTKlA.woff2") format("woff2"); unicode-range: U+102-103, U+=
+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TzBic0CsTKlA.woff2") format("woff2"); unicode-range: U+100-24F, U+=
+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+=
+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TzBic6CsQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+21=
+22, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TLBCc3CsTKlA.woff2") format("woff2"); unicode-range: U+460-52F, U+=
+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TLBCc-CsTKlA.woff2") format("woff2"); unicode-range: U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TLBCc2CsTKlA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; =
+}
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TLBCc5CsTKlA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TLBCc1CsTKlA.woff2") format("woff2"); unicode-range: U+102-103, U+=
+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TLBCc0CsTKlA.woff2") format("woff2"); unicode-range: U+100-24F, U+=
+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+=
+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: italic; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu=
+92Fr1Mu51TLBCc6CsQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+21=
+22, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1MmgVxFIzIFKw.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80=
+-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1MmgVxMIzIFKw.woff2") format("woff2"); unicode-range: U+400-45F, U+490-=
+491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1MmgVxEIzIFKw.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1MmgVxLIzIFKw.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1MmgVxHIzIFKw.woff2") format("woff2"); unicode-range: U+102-103, U+110-=
+111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1MmgVxGIzIFKw.woff2") format("woff2"); unicode-range: U+100-24F, U+259,=
+ U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720=
+-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 100; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu=
+92Fr1MmgVxIIzI.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152=
+-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, =
+U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmSU5fCRc4EsA.woff2") format("woff2"); unicode-range: U+460-52F, U+1C8=
+0-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmSU5fABc4EsA.woff2") format("woff2"); unicode-range: U+400-45F, U+490=
+-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmSU5fCBc4EsA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmSU5fBxc4EsA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmSU5fCxc4EsA.woff2") format("woff2"); unicode-range: U+102-103, U+110=
+-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmSU5fChc4EsA.woff2") format("woff2"); unicode-range: U+100-24F, U+259=
+, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A72=
+0-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 300; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmSU5fBBc4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+15=
+2-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122,=
+ U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu=
+92Fr1Mu72xKOzY.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C=
+88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu=
+92Fr1Mu5mxKOzY.woff2") format("woff2"); unicode-range: U+400-45F, U+490-491=
+, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu=
+92Fr1Mu7mxKOzY.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu=
+92Fr1Mu4WxKOzY.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu=
+92Fr1Mu7WxKOzY.woff2") format("woff2"); unicode-range: U+102-103, U+110-111=
+, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu=
+92Fr1Mu7GxKOzY.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+=
+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7=
+FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu=
+92Fr1Mu4mxK.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-15=
+3, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2=
+191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmEU9fCRc4EsA.woff2") format("woff2"); unicode-range: U+460-52F, U+1C8=
+0-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmEU9fABc4EsA.woff2") format("woff2"); unicode-range: U+400-45F, U+490=
+-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmEU9fCBc4EsA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmEU9fBxc4EsA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmEU9fCxc4EsA.woff2") format("woff2"); unicode-range: U+102-103, U+110=
+-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmEU9fChc4EsA.woff2") format("woff2"); unicode-range: U+100-24F, U+259=
+, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A72=
+0-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmEU9fBBc4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+15=
+2-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122,=
+ U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmWUlfCRc4EsA.woff2") format("woff2"); unicode-range: U+460-52F, U+1C8=
+0-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmWUlfABc4EsA.woff2") format("woff2"); unicode-range: U+400-45F, U+490=
+-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmWUlfCBc4EsA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmWUlfBxc4EsA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmWUlfCxc4EsA.woff2") format("woff2"); unicode-range: U+102-103, U+110=
+-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmWUlfChc4EsA.woff2") format("woff2"); unicode-range: U+100-24F, U+259=
+, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A72=
+0-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmWUlfBBc4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+15=
+2-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122,=
+ U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmYUtfCRc4EsA.woff2") format("woff2"); unicode-range: U+460-52F, U+1C8=
+0-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmYUtfABc4EsA.woff2") format("woff2"); unicode-range: U+400-45F, U+490=
+-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmYUtfCBc4EsA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmYUtfBxc4EsA.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmYUtfCxc4EsA.woff2") format("woff2"); unicode-range: U+102-103, U+110=
+-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmYUtfChc4EsA.woff2") format("woff2"); unicode-range: U+100-24F, U+259=
+, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A72=
+0-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 900; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu=
+92Fr1MmYUtfBBc4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+15=
+2-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122,=
+ U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://avatars.githubusercontent.com/u/87716478?v=4
+
+/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAx
+NDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAcwBzAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGh
+CCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV
+1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQAC
+AQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXx
+FxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqS
+k5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T1
+9vf4+fr/2gAMAwEAAhEDEQA/APfqKMGigA5oo5ooAKgb/j8X3Sp+arv/AMfkQ/2WpMB7f65evSsK
+/wD+QpL+H8q3X4kWsLUMjVJPcA/pTAuaXnzm+la1Y+ln/SD9K2KACiiigAooooAKy7tsa1aD2/xr
+UrGvDjX7T6f40Aa7j5W+leawff8Axr0s9GrzWHJkOKAO5gkMUCKOcQE/yrhdclMsmSOprtYsmPYR
+jFqTn8RXD6yMSfjTAbB9wVNiobfJjFWMcUgE7UoBxS44pcHFADcH0pMc07FAoAu2g4rWtx8tZdp0
+rWgHyipYEuKYwNS01hSAjINIBTjk0gBoAMZppFPxg0hoAZjmkPWn4puKBEEn3l+tNuc7kx0p7jLi
+m3Ocr9KYHOyj983Oeafbj98oqNs+Y31qa2XMy80MDaQcU7HFCghRSngUgEI4pvJp9NNADeRTe9P7
+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
+OzH8zQJJe7t+dLRii4H/2Q==
+
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://hokifickgkhplphjiodbggjmoafhignh/fonts/fabric-icons.css
+
+@charset "utf-8";
+
+@font-face { font-family: FabricMDL2Icons; src: url("fabric-icons.woff") fo=
+rmat("woff"); }
+------MultipartBoundary--Pfx2sz8kRXHA60CRBcYPp1Xc7gikYIzq2zVkgR3OkW------
