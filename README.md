@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# GITHUB API ZEF for Digital Innovation One's lesson, using only JS, HTML and CSS - Desenvolvido pelo aluno da Dio Inovation One - Pedro Zeferino da Silva e ajuda do Matheus Benites.
+## GITHUB API ZEF for Digital Innovation One's lesson, using only JS, HTML and CSS - Desenvolvido pelo aluno da Dio Inovation One - Pedro Zeferino da Silva e ajuda do Matheus Benites.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
