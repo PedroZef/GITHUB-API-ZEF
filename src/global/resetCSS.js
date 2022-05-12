@@ -1,6 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
-export const ResetCSS = createGlobalStyle`
+export const ResetCSS = createGlobalStyle `
   /*! destyle.css v2.0.2 | MIT License | https://github.com/nicolas-cusan/destyle.css */
 
 /* Reset box-model and set borders */
@@ -490,5 +490,19 @@ template {
 
 [hidden] {
   display: none;
+}
+
+.fixarRodape {
+    background: black;
+    border-top: 1px solid #333;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    position: fixed;
+    text-align: center;
+    background-color: rgb(120, 205, 175);
+    ;
+    width: 100%;
+    background-position: center;
 }
 `;
