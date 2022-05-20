@@ -1,7 +1,7 @@
 import { createGlobalStyle } from "styled-components";
 
 export const ResetCSS = createGlobalStyle `
-  /*! destyle.css v2.0.2 | MIT License | https://github.com/nicolas-cusan/destyle.css */
+  
 
 /* Reset box-model and set borders */
 /* ============================================ */
